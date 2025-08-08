@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "AirportProblems"]
 	path = AirportProblems
-	url = https://github.com/cran/AirportProblems
+	url = https://github.com/alexbernardez/airportproblems
